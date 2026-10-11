@@ -1,0 +1,7 @@
+groq
+spaces
+torch==2.8.0
+transformers>=4.55.0
+accelerate
+kernels
+triton>=3.4.0
